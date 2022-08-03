@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>0712</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="stytl.css">
+    </head>
+    <body>
+        <h1>謀西謀溪</h1>
+        <h2>摳妮基挖</h2>
+        <h3>0713網頁修改</h3>
+        <h4>標題1</h4>
+        <h5>選單</h5>
+        <br>
+        <select name="abc" id="colors" onchange="change()">選單
+            <option value="transparent">無色</option>
+            <option value="lightpink">粉紅</option>
+            <option value="lightblue">粉藍</option>
+        <option value="limegreen">檸檬綠</option>
+        <option value="#8080C0">粉紫</option>
+    </select>
+    <p>DAY1 0712</p>
+    <a href="http://120.119.67.10:5122">鐵捲門
+        <br>
+        <input type="text" name="姓名">
+        <input type="submit" name="提交">
+    </a>
+<script src="script.js"></script>
+
+
+    </body>
+</html>
